@@ -21,6 +21,7 @@ class CorreiosConsulta
             'pac_contrato'   => '04669',
             'sedex_contrato' => '04162',
             'esedex'         => '81019',
+            'minienvios'     => '04227'
         ];
 
     public static function getTipos()
